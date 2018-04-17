@@ -1,2 +1,2 @@
 # UnityAR
-An unity project on Augmented Reality using Vuforia Augmented SDK 
+An unity project on Augmented Reality using Vuforia Augmented SDK... 
